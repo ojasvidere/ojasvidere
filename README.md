@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ojasvi Dere</h1>
 
- ![photo-1616763355548-1b606f439f86](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
+ ![photo-1616763355548-1b606f439f86](https://iconscout.com/lottie-animation/young-woman-working-at-office-9560180)
 
 <h3 align="center">I am an Engineering Management graduate from Northeastern University, with a strong background in Data Science, Machine Learning, and Business Analytics. Proficient in programming languages like Python, and tools/technologies such as AWS, Docker, Power BI, and Tableau. Experienced in ML modeling techniques including clustering, classification, regression, recommendation systems, and time series forecasting. Possesses expertise in data engineering with ETL, MySQL, MongoDB, Airflow, and Spark. Adept at leveraging data-driven insights to drive business decisions and optimize processes. Equipped with strong analytical, problem-solving, and project management skills. Passionate about leveraging cutting-edge technologies to tackle complex challenges and deliver impactful solutions. Committed to continuous learning and professional growth in the dynamic field of data analytics.</h3>
 
